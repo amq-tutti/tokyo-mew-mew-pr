@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "party-rank-sorter",
-    title: "Party Rank Sorter",
-    description: "Party rank sorter for your custom list of songs."
+    localStoragePrefix: "tokyo-mew-mew",
+    title: "Tokyo Mew Mew Party Rank Sorter",
+    description: "Party rank sorter for all \"Tokyo Mew Mew\" anime songs",
 };
